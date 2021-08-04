@@ -1,6 +1,6 @@
 package com.example.center.zookeeper;
 
-import com.example.zookeeper.utils.ZookeeperConnection;
+import com.example.center.zookeeper.utils.ZookeeperConnection;
 import org.apache.zookeeper.CreateMode;
 import org.apache.zookeeper.ZooDefs;
 import org.apache.zookeeper.ZooKeeper;
